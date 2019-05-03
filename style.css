@@ -1,0 +1,19 @@
+.root{
+  -fx-padding: 50px;
+}
+.btn{
+  -fx-pref-width: 54px;
+  -fx-pref-height: 35px;
+  -fx-text-fill: #FFF;
+  -fx-background-color: #1f8fe8;
+  -fx-border-width: 1px;
+  -fx-border-color: #1f8fe8;
+  -fx-border-radius: 0px;
+}
+.Text{
+  -fx-pref-height: 35px;
+  -fx-background-color: #fff;
+  -fx-border-width: 1;
+  -fx-border-color: #1f8fe8;
+  -fx-border-radius: 0px;
+}
